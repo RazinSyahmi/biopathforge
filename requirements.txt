@@ -1,0 +1,6 @@
+streamlit
+biopython
+pandas
+networkx
+matplotlib
+requests
